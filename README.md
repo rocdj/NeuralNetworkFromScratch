@@ -8,4 +8,4 @@ In this project, I built a neural network from scratch without using any externa
 
 ## Contents
 
-	•	8neuronF.ipynb: Jupyter notebook containing the implementation of the neural network, training and testing scripts, and all necessary functions.
+8neuronF.ipynb: Jupyter notebook containing the implementation of the neural network, training and testing scripts, and all necessary functions.
